@@ -31,7 +31,7 @@
 	//$config['base_url'] = 'http://localhost/akira-service/';
 
 	// main site details
-		define(	'WEBSITENAME'		,	"Akira Services Product"	);
+		define(	'WEBSITENAME'		,	"Akira Services"	);
 		define(	'WEBSITEIMAGE'		,	"http://localhost/akira-service/logo.png"	);
 		define(	'WEBSITESEOIMAGE'	,	"http://localhost/akira-service/assets/weblayout/img/favicon.ico"	);
 		define(	'WEBSITEFAVICON'	,	"http://localhost/akira-service/assets/weblayout/img/favicon.ico"	);
