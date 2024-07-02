@@ -25,14 +25,14 @@
 | a PHP script and you can easily do that on your own.
 |
 */
-	$config['base_url'] = 'https://www.akiraservices.in';
+	$config['base_url'] = 'http://localhost/akira-service/';
 
 
 	// main site details
 		define(	'WEBSITENAME'		,	"Akira Services"	);
-		define(	'WEBSITEIMAGE'		,	"https://www.akiraservices.in/logo.png"	);
-		define(	'WEBSITESEOIMAGE'	,	"https://www.akiraservices.in/assets/weblayout/img/favicon.ico"	);
-		define(	'WEBSITEFAVICON'	,	"https://www.akiraservices.in/assets/weblayout/img/favicon.ico"	);
+		define(	'WEBSITEIMAGE'		,	"http://localhost/akira-service/logo.png"	);
+		define(	'WEBSITESEOIMAGE'	,	"http://localhost/akira-service/assets/weblayout/img/favicon.ico"	);
+		define(	'WEBSITEFAVICON'	,	"http://localhost/akira-service/assets/weblayout/img/favicon.ico"	);
 	// main site details
 
 	
