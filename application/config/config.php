@@ -28,6 +28,8 @@
 	$config['base_url'] = 'http://localhost/akira-service/';
 
 
+	//$config['base_url'] = 'http://localhost/akira-service/';
+
 	// main site details
 		define(	'WEBSITENAME'		,	"Akira Services"	);
 		define(	'WEBSITEIMAGE'		,	"http://localhost/akira-service/logo.png"	);
