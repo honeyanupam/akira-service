@@ -58,7 +58,7 @@
 			
 		.mce-notification-warning
 		    {
-		        display:none;
+		        display:none !important;
 		    }
 	</style>
 	
