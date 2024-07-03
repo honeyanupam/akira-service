@@ -53,7 +53,7 @@
 			color: #fff !important;
 			-webkit-border-radius: 03px;
 			-moz-border-radius: 03px;
-			border-radius: 03px;
+			border-radius: 03px !important;
 			} 
 			
 		.mce-notification-warning
